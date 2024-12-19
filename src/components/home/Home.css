@@ -1,0 +1,36 @@
+.home-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.home-header {
+    text-align: center;
+    background: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.home-about, .home-services {
+    margin: 20px 0;
+}
+
+.home-about h2, .home-services h2 {
+    color: #555;
+}
+
+.home-services ul {
+    list-style: none;
+    padding: 0;
+}
+
+.home-services li {
+    margin: 10px 0;
+}
+
+.home-footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #888;
+}
